@@ -15,7 +15,7 @@ Installation
 
 1. Clone the repository:
 
-    git clone https://github.com/VIRTUAL-VIRUZ
+    git clone https://github.com/VIRTUAL-VIRUZ/Vuln-Scanner.git
     cd vulnscanner
 
 2. Install dependencies:
